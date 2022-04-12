@@ -6,11 +6,11 @@ Also automatically converts decimal answer to a fraction and displays that too.
 Just download, change the client secret for the bot to your own and run `py main.py`
 
 ## Examples
-#### Single Integration\
+#### Single Integration
 ![](https://i.ibb.co/2S6jzky/unknown.png)
 
-#### Double Integration\
+#### Double Integration
 ![](https://i.ibb.co/D9XdZNg/unknown.png)
 
-#### Triple Integration\
+#### Triple Integration
 ![](https://i.ibb.co/gWQvSq5/calculusbot.png)
